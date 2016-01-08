@@ -11,7 +11,9 @@ Why do you think some version control systems, like Git, allow saving multiple f
 
 google docs was built with a single file in mind.  You have to open one file at a time or have many windows open and there really is no "manual" saving.  Git was build on the idea that you would have control over your versions and leo understood that many files that rely on  each other to work correctly may need to maintained at once.  
 
+How can you use the commands git log and git diff to view the history of files?
 
+git log shows you the history of your commits.  you can use the log ids and git diff to show what was added and what was removed.
 
 
 
